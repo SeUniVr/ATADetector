@@ -7,7 +7,7 @@ To run ATADetector:
 1. clone the repository;
 2. enter in the "ATADetector/Tool" folder;
 3. run "java -jar out/artifacts/ATADetector_jar/ATADetector.jar" for the usage;
-4. to test ATADetector works, run "java -jar out/artifacts/ATADetector_jar/ATADetector.jar -p ../apks/ -r ../output/" (remember to mark the file "resources/dex2jar-2.0/d2j-dex2jar.sh" as executable). This will run the analysis on a sample application and report the results in the "output" directory;
+4. to test ATADetector works, run "java -jar out/artifacts/ATADetector_jar/ATADetector.jar -p ../apks/ -r ../output/" (remember to mark the file "resources/dex-tools-2.x/d2j-dex2jar.sh" as executable). This will run the analysis on a sample application and report the results in the "output" directory;
 5. add your APKs in the input folder ("-p") for the complete analysis.
 
 <hr />
